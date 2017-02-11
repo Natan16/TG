@@ -1,0 +1,52 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{Declaration of Authorship}{iii}{section*.1}
+\contentsline {chapter}{Abstract}{vii}{section*.2}
+\contentsline {chapter}{Acknowledgements}{ix}{section*.3}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{chapter.14}
+\contentsline {section}{\numberline {1.1}Welcome and Thank You}{1}{section.15}
+\contentsline {section}{\numberline {1.2}Learning \LaTeX {}}{1}{section.16}
+\contentsline {subsection}{\numberline {1.2.1}A (not so short) Introduction to \LaTeX {}}{1}{subsection.17}
+\contentsline {subsection}{\numberline {1.2.2}A Short Math Guide for \LaTeX {}}{2}{subsection.18}
+\contentsline {subsection}{\numberline {1.2.3}Common \LaTeX {} Math Symbols}{2}{subsection.19}
+\contentsline {subsection}{\numberline {1.2.4}\LaTeX {} on a Mac}{2}{subsection.20}
+\contentsline {section}{\numberline {1.3}Getting Started with this Template}{2}{section.21}
+\contentsline {subsection}{\numberline {1.3.1}About this Template}{3}{subsection.22}
+\contentsline {section}{\numberline {1.4}What this Template Includes}{3}{section.23}
+\contentsline {subsection}{\numberline {1.4.1}Folders}{3}{subsection.24}
+\contentsline {subsection}{\numberline {1.4.2}Files}{3}{subsection.25}
+\contentsline {section}{\numberline {1.5}Filling in Your Information in the \texttt {\bfseries main.tex} File}{4}{section.26}
+\contentsline {section}{\numberline {1.6}The \texttt {main.tex} File Explained}{5}{section.27}
+\contentsline {section}{\numberline {1.7}Thesis Features and Conventions}{6}{section.28}
+\contentsline {subsection}{\numberline {1.7.1}Printing Format}{6}{subsection.29}
+\contentsline {subsection}{\numberline {1.7.2}Using US Letter Paper}{6}{subsection.30}
+\contentsline {subsection}{\numberline {1.7.3}References}{6}{subsection.31}
+\contentsline {subsubsection}{A Note on bibtex}{7}{section*.33}
+\contentsline {subsection}{\numberline {1.7.4}Tables}{7}{subsection.34}
+\contentsline {subsection}{\numberline {1.7.5}Figures}{8}{subsection.36}
+\contentsline {subsection}{\numberline {1.7.6}Typesetting mathematics}{9}{subsection.38}
+\contentsline {section}{\numberline {1.8}Sectioning and Subsectioning}{9}{section.40}
+\contentsline {section}{\numberline {1.9}In Closing}{10}{section.41}
+\contentsline {chapter}{\numberline {2}Fundamenta\IeC {\c c}\IeC {\~a}o Te\IeC {\'o}rica}{11}{chapter.42}
+\contentsline {section}{\numberline {2.1}Main Section 1}{11}{section.43}
+\contentsline {subsection}{\numberline {2.1.1}Subsection 1}{11}{subsection.44}
+\contentsline {subsection}{\numberline {2.1.2}Subsection 2}{11}{subsection.45}
+\contentsline {section}{\numberline {2.2}Main Section 2}{11}{section.46}
+\contentsline {chapter}{\numberline {3}Proposta}{13}{chapter.47}
+\contentsline {section}{\numberline {3.1}Main Section 1}{13}{section.48}
+\contentsline {subsection}{\numberline {3.1.1}Subsection 1}{13}{subsection.49}
+\contentsline {subsection}{\numberline {3.1.2}Subsection 2}{13}{subsection.50}
+\contentsline {section}{\numberline {3.2}Main Section 2}{13}{section.51}
+\contentsline {chapter}{\numberline {4}An\IeC {\'a}lise e Discuss\IeC {\~a}o do Resultados}{15}{chapter.52}
+\contentsline {section}{\numberline {4.1}Main Section 1}{15}{section.53}
+\contentsline {subsection}{\numberline {4.1.1}Subsection 1}{15}{subsection.54}
+\contentsline {subsection}{\numberline {4.1.2}Subsection 2}{15}{subsection.55}
+\contentsline {section}{\numberline {4.2}Main Section 2}{15}{section.56}
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~o}es}{17}{chapter.57}
+\contentsline {section}{\numberline {5.1}Main Section 1}{17}{section.58}
+\contentsline {subsection}{\numberline {5.1.1}Subsection 1}{17}{subsection.59}
+\contentsline {subsection}{\numberline {5.1.2}Subsection 2}{17}{subsection.60}
+\contentsline {section}{\numberline {5.2}Main Section 2}{17}{section.61}
+\contentsline {chapter}{\numberline {A}Frequently Asked Questions}{19}{appendix.62}
+\contentsline {section}{\numberline {A.1}How do I change the colors of links?}{19}{section.63}
